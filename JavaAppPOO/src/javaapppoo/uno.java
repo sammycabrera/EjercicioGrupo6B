@@ -10,5 +10,6 @@ package javaapppoo;
  * @author APRENDIZ
  */
 public class uno {
+    int j;
     
 }
