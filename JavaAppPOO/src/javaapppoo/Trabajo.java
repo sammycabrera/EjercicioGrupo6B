@@ -19,7 +19,7 @@ public class Trabajo {
     public static void main(String[] args) {
     
         // TODO code application logic here
-        Persona persona1=new Persona();
+        /*Persona persona1=new Persona();
         persona1.setId(1);
         persona1.setNombre("leandro");
         persona1.setApellido("meza");
@@ -27,7 +27,8 @@ public class Trabajo {
         persona1.setFecha_nacimiento(fecha_nacimiento);
         persona1.setEstado_civil("CASADO");
         long edad=persona1.obtenetEdad();
-        System.out.println(persona1);
+        System.out.println(persona1);*/
+        System.out.println();
     }
     
     
