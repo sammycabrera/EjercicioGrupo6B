@@ -20,13 +20,13 @@ public class Trabajo {
     
         // TODO code application logic here
         Persona persona1=new Persona();
-        persona1.setID(1);
+        persona1.setId(1);
         persona1.setNombre("leandro");
         persona1.setApellido("meza");
         Date fecha_nacimiento = new Date("02/02/1987");
         persona1.setFecha_nacimiento(fecha_nacimiento);
         persona1.setEstado_civil("CASADO");
-        long edad=persona1.obtenerEdad();
+        long edad=persona1.obtenetEdad();
         System.out.println(persona1);
     }
     
